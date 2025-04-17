@@ -1,0 +1,2 @@
+# luck
+Luck game.
