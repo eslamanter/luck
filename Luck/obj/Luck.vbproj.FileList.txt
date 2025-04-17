@@ -1,0 +1,16 @@
+bin\Debug\Luck.exe
+bin\Debug\Luck.pdb
+bin\Debug\Luck.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Luck.Form1.resources
+obj\Debug\Luck.Form2.resources
+obj\Debug\Luck.Resources.resources
+obj\Debug\Luck.vbproj.GenerateResource.Cache
+obj\Debug\Luck.exe
+obj\Debug\Luck.xml
+obj\Debug\Luck.pdb
+obj\Debug\Luck.Form3.resources
+bin\Debug\Luck.exe.manifest
+bin\Debug\Luck.application
+obj\Debug\Luck.exe.manifest
+obj\Debug\Luck.application
